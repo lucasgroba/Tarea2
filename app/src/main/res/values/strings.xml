@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tarea2</string>
+    <string name="boton1">Mostrar</string>
+    <string name="sintexto">Nada para mostrar ...</string>
+    <string name="textoingresado">Ingrese su texto...</string>
+    <string name="placeholder">Ingrese Texto...</string>
+</resources>
